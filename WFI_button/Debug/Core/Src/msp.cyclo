@@ -1,3 +1,0 @@
-../Core/Src/msp.c:15:6:HAL_MspInit	1
-../Core/Src/msp.c:30:6:HAL_TIM_Base_MspInit	1
-../Core/Src/msp.c:45:6:HAL_UART_MspInit	1
